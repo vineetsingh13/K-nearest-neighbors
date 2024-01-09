@@ -50,6 +50,6 @@ README.md: This readme file.
 ## Dependencies
 The following Python libraries are used in the implementation:
 
-pandas
-numpy
-sklearn
+ - pandas
+ - numpy
+ - sklearn
