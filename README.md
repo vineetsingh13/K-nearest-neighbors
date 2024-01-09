@@ -47,15 +47,6 @@ knn.ipynb: Jupyter notebook containing the code for kNN classification.
 teleCust1000t.csv: The dataset used for training and testing the kNN model.
 README.md: This readme file.
 
-## Usage
-1. Clone the repository:
-
-bash
-git clone https://github.com/your-username/Customer-Category-Classification.git
-2. Open and run the Jupyter notebook Customer_Category_Classification.ipynb in Google Colaboratory.
-
-3. Explore the code, understand the implementation, and experiment with different values of k.
-
 ## Dependencies
 The following Python libraries are used in the implementation:
 
