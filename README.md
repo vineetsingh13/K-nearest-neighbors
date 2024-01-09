@@ -5,33 +5,33 @@ This repository contains code for classifying customer categories using the k-Ne
 ## Dataset
 The dataset used is a tabular dataset with the following columns:
 
--Region
--Tenure
--Age
--Marital Status
--Address
--Income
--Education Level (ed)
--Employment Tenure (employ)
--Retirement Status
--Gender
--Residence Status
--Customer Category (custcat)
+ - Region
+ - Tenure
+ - Age
+ - Marital Status
+ - Address
+ - Income
+ - Education Level (ed)
+ - Employment Tenure (employ)
+ - Retirement Status
+ - Gender
+ - Residence Status
+ - Customer Category (custcat)
 
 ## k-Nearest Neighbors (kNN) Classification
 The kNN algorithm is implemented to classify the customer category based on the features:
 
--Region
--Tenure
--Age
--Marital Status
--Address
--Income
--Education Level
--Employment Tenure
--Retirement Status
--Gender
--Residence Status
+ - Region
+ - Tenure
+ - Age
+ - Marital Status
+ - Address
+ - Income
+ - Education Level
+ - Employment Tenure
+ - Retirement Status
+ - Gender
+ - Residence Status
 
 ## Data Preprocessing
 Before applying the kNN algorithm, the data is split into training and testing sets (80% training, 20% testing). To address differences in the magnitude of values, the data is standardized.
